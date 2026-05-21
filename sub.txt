@@ -1,4 +1,4 @@
-#profile-title: VPN
+#profile-title: RU-VPN
 #profile-update-interval: 6
 
 vless://7d073c6e-9769-4617-8200-62d4e5513fa7@noderu2.motion-vpn.com:443?type=tcp&encryption=none&security=reality&pbk=NhIxhHDxYR9HEhlnDcacIVg8S4Z5lw8aWg6HZIUeBzo&fp=chrome&sni=noderu2.motion-vpn.com&flow=xtls-rprx-vision#🇷🇺Russia-1
